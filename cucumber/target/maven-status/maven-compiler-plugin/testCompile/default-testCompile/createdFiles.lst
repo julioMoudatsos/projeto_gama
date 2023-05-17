@@ -1,0 +1,7 @@
+parallel\steps\CadastroStepdefs.class
+parallel\utils\Propriedades.class
+parallel\steps\BaseTest.class
+parallel\RunCucumberTest.class
+parallel\config\DriverFactory$1.class
+parallel\config\DriverFactory.class
+parallel\steps\LoginStepdefs.class
